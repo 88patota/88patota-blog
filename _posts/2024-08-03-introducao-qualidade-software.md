@@ -1,13 +1,13 @@
 ---
 title: O que é Qualidade de Software em ambientes Ágeis?
 description: Neste artigo, exploramos os fundamentos da qualidade de software e sua importância para o ciclo de desenvolvimento de software.
-author: 88patota
+author: patota
 date: 2024-08-03
 categories: [Blogging, Qualidade de Software]
 tags: [qa, qualidade de software]
-pin: true
-math: true
-mermaid: true
+# pin: true
+# math: true
+# mermaid: true
 # image:
 #   path: /commons/devices-mockup.png
 #   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
@@ -36,4 +36,27 @@ Com times mais maduros e com alto conhecimento no produto, o desenvolvimento de 
 Porém hoje é cada vez mais difícil encontrar um QA por squad ou até mesmo um QA na empresa. Quando falo em uma empresa que não tem ao menos um QA, falo de uma startup relativamente pequena em que sua equipe de engenharia não passa de 8~10 pessoas. Nessa etapa a empresa busca velocidade na entrega de novas funcionalidades para atrair mais público (clientes e usuários) e novas rodadas de investimento. É uma fase de validação onde faz muito mais sentido investir no produto e no desenvolvimento dele do que na qualidade (infelizmente).
 Digo infelizmente porque boa parte dessas pessoas estão pressionadas para entregar algo para o mercado e às vezes a qualidade deixa a desejar.
 
-![Startup](https://unsplash.com/photos/a-group-of-people-sitting-around-a-table-in-a-room-3y_dY4vSXII) 
+|![Iniciando em agilidade (Scrum)](/assets/img/blog-img/euscrumzando.JPG) |
+|:--:|
+| *Montei uma lousa para colocar as tarefas visivelmente - Tokyo Marine 2008* |
+
+|![Iniciando em agilidade (Scrum)](/assets/img/blog-img/scrum1.JPG) |
+|:--:|
+| *Montei uma lousa para colocar as tarefas visivelmente - Tokyo Marine 2008* |
+
+|![Iniciando em agilidade (Scrum)](/assets/img/blog-img/scrum2.JPG) |
+|:--:|
+| *Montei uma lousa para colocar as tarefas visivelmente - Tokyo Marine 2008* |
+
+|![Treinamento Scrum](/assets/img/blog-img/treinamento.JPG) |
+|:--:|
+| *Certificação Scrum Master - Caelum 2008* |
+
+O que quero dizer é que esse tipo de ambiente já existe a muito tempo e teve diversos nomes também.
+No ínicio eu escutava muito a palavra *células* que nada mais é hoje que Squad, Time ou qualquer nome de personagem da Marvel.
+Cada *célula* tinha seu grupo maior também, relacionando a Tribo.
+Toda essa mudança de nomenclatura surgiu do Spotify. Mais pra frente posso contar um pouco mais dessa história mas, foram eles que trouxeram esses novos nomes para estruturar um time. O mais engraçado é que ainda hoje (2024) existe empresas e pessoas olhando pra esse modelo que nem eles mesmos utilizam mais hahaha :D
+
+## Conclusão
+Acredito muito que a área de Qualidade de Software ou o QA são papéis de grande importância no ciclo de desenvolvimento. Porém esses papéis se fazem como parte opcional do ciclo. A ideia que hoje é que todos do time saibam validar aquela tarefa pra poder entregar com qualidade para o cliente final.
+Mas isso é papo pra outro post.
